@@ -9,7 +9,5 @@ To be able to use this library the file_get_contents PHP function have to be ava
 Usage
 =====
 
-`
-require 'GTranslate.php'
-GTranslate::translate($from_iso, $to_iso);
-`
+`require 'GTranslate.php'`
+`GTranslate::translate($from_iso, $to_iso);`
