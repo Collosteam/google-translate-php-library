@@ -28,7 +28,7 @@
 *           <?
 *               require 'GTranslate.php';
 *               
-*               Gtranslate::translate($from_iso, $to_iso);
+*               Gtranslate::translate($from_iso, $to_iso, 'TEXT TO TRANSLATE');
 *           </code>
 */
 

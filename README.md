@@ -10,4 +10,4 @@ Usage
 =====
 
 `require 'GTranslate.php'`
-`GTranslate::translate($from_iso, $to_iso);`
+`GTranslate::translate($from_iso, $to_iso, 'TEXT TO TRANSLATE');`
